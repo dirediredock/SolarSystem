@@ -7,5 +7,6 @@ A to-scale model in kilometers of the orbits of the main eight rocky and gas pla
 <img src="https://raw.githubusercontent.com/dirediredock/SolarSystem/main/Figures/A01.png" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/SolarSystem/main/Figures/A02.png" width="100%">
 <img src="https://raw.githubusercontent.com/dirediredock/SolarSystem/main/Figures/A03.png" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/SolarSystem/main/Figures/Chile_SolarSystem.png" width="100%">
 
 <br>
